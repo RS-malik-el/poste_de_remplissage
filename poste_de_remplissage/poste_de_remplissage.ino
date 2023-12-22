@@ -14,7 +14,7 @@
  * 1 Servomoteur
  * 1 Moto-pompe
  * 1 Moto-reducteur (entraînement du tapis)
- * 1 Driver LN298N
+ * 1 Driver L298N
 */
 
 #ifndef __AVR__
