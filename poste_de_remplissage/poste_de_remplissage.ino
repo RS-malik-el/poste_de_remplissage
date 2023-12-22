@@ -93,7 +93,6 @@ void loop(){
 			gestion_Remplissage();
 		// Détection du pot devant le poste de bouchonnage
 		if(detection(TRIG_PIN_2, ECHO_PIN_2)==true)
-		//	gestion_Remplissage();
 			gestion_Bouchonnage();
 	}
 }
